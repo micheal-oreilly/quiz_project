@@ -21,4 +21,3 @@ print(user_1.followers)
 print(user_1.following)
 print(user_2.followers)
 print(user_2.following)
-
