@@ -34,3 +34,6 @@ for question in question_data:
     question_bank.append(new_question)
 
 print(question_bank[0].text)
+print(question_bank[0].answer)
+print(question_bank[1].text)
+print(question_bank[1].answer)
